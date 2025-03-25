@@ -1,0 +1,8 @@
+fastapi
+langchain
+langchain_core
+pypdf
+pymupdf
+python-multipart
+uvicorn
+pytesseract
